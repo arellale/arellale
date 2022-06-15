@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @arellale
-- 👀 I’m interested in learning Python. I have previous experience learning R, SQL and a bit of Java.
-- 🌱 I’m currently learning Python and Azure basics.
-- 💞️ I’m looking to collaborate on Python projects to help me become more familiar with the language.
+- Hi, I’m Alejandra!
+- I love learning new things and self improvement.
+- I’m interested in learning Python. I have previous experience learning R, SQL and a bit of Java.
+- I have a certification in Azure fundamentals and currently going for the AWS Practioner Cert.
+- Although I'm fairly new, I’m looking to collaborate on Python projects to help me become more familiar with the language.
 - 📫 How to reach me by DM.
 
 <!---
